@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: com.heavenlapse
+---
+testFramework: junit
+sourceLanguage: java
